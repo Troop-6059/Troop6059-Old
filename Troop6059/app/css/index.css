@@ -123,11 +123,11 @@ body {
 .ScoutMeIn {
   position: relative;
   top: 15px;
-  right: 0;
+  left: 0;
   bottom: 0;
   min-width: 10px;
-  min-height: 10px;
-  transform: translateX(calc((100% - 100vw) / 2));
+  min-height: 5.6px;
+  /* transform: translateX(calc((100% - 100vw) / 2)); */
 }
 .container {
   border: 2px solid #ccc;

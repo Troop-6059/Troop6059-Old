@@ -2,6 +2,9 @@
 Helping out a friend to fix some HTML for a website
 
 # Changelog
+## May 4, 2021
+  - Fixed the styles that broke when adding in the <scouting.org> navigation bar.
+
 ## May 3, 2021
   - Fixed the formating of the file and project to better aquate large file lists.
   - Took body code out of the head class.
