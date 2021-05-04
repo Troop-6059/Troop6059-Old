@@ -8,3 +8,4 @@ Helping out a friend to fix some HTML for a website
   - Updated the Pack Website <http://www.pack-57.com/> link.
   - Broke down the CSS files to make them more managable.
   - Took scripts out of index.html and put them into JavaScript Files with proper calls in index.html.
+  - Got the banner to look like the one on <scouting.org>.
