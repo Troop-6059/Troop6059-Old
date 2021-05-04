@@ -129,6 +129,7 @@ body {
   min-height: 5.6px;
   /* transform: translateX(calc((100% - 100vw) / 2)); */
 }
+
 .container {
   border: 2px solid #ccc;
   background-color: #eee;
@@ -163,4 +164,12 @@ body {
     float: none;
     display: block;
   }
+}
+
+#sc-megamenu .container {
+  border: none;
+  background-color: #003f87;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
 }
